@@ -2,9 +2,9 @@ Question,Answer
 "1. What is correlation in statistics, (define correlation)?","According to the provided context, correlation is defined as ""a statistical measure that expresses the extent to which two variables are linearly related."""
 "2. What is the range of correlation coefficients, and what do the values -1, 0, and 1 indicate?","According to the text, correlation coefficients range from -1 to 1. The values -1, 0, and 1 indicate the following:
 
-* A value of -1 indicates a perfect negative linear relationship between the two variables.
 * A value of 0 indicates no linear relationship between the two variables.
-* A value of 1 indicates a perfect positive linear relationship between the two variables."
+* A value of 1 indicates a perfect positive linear relationship between the two variables.
+* A value of -1 indicates a perfect negative linear relationship between the two variables."
 3. What are the three main uses of correlation in statistics?,"According to the text, the three main uses of correlation in statistics are:
 
 1. Identify relationships between variables: Correlation can be used to identify whether there is a relationship between two variables, and if so, whether the relationship is positive or negative.

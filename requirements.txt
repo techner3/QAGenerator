@@ -8,3 +8,5 @@ langchain-core
 langchain-groq
 langchain_cohere 
 langchain-community
+
+-e .
