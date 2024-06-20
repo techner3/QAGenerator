@@ -1,0 +1,10 @@
+pypdf
+tiktoken
+rank_bm25
+faiss-cpu
+langchain
+python-dotenv 
+langchain-core
+langchain-groq
+langchain_cohere 
+langchain-community
