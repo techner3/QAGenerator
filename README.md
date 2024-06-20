@@ -11,9 +11,9 @@ This project aims to develop question and answers from the given PDF file. It us
 1. Create an environment
 
 ```bash
-conda create -p ven_qag python=3.9 -y
+conda create -p venv_qag python=3.9 -y
 
-conda activate ven_qag
+conda activate ./venv_qag
 ```
 
 2. Install Requirements
