@@ -3,7 +3,8 @@ tiktoken
 rank_bm25
 faiss-cpu
 langchain
-python-dotenv 
+from_root 
+python-dotenv
 langchain-core
 langchain-groq
 langchain_cohere 
